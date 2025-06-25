@@ -1,0 +1,1 @@
+Blue Collar Meta (BLUE) is a utility-rewards coin on TON that converts verified real world contributions into spendable value.
