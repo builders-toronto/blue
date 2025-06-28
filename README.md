@@ -4,6 +4,7 @@
 
 **BLUE** is a TIP‑3 jetton on the **TON** blockchain created by the Renovation.Reviews mega construction‑tech family.  It rewards—and circulates within—any trade, craft, or blue‑collar project, turning verified effort into on‑chain value that can power community incentives, DeFi activity, and the tooling we build next.
 
+
 ---
 
 ## Core Facts
@@ -47,6 +48,7 @@
 * **Twitter / X:** <https://twitter.com/bluecollarmeta>
 * **Website:** <https://builders-toronto.github.io/blue/>
 * **GitHub:** <https://github.com/builders-toronto/blue>
+* **GITBOOK:** <https://blue-9.gitbook.io/blue-docs>
 
 Come help shape the roadmap, propose integrations, or earn BLUE by contributing knowledge that builds better worlds for every trade.
 
